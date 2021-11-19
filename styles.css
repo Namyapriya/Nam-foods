@@ -1,0 +1,45 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color:#fa0238;
+    padding: 15px;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+p{ font: size 10px;}
+body{
+    margin: 0px;
+    
+    background-color:#fab3b9;
+    
+}
+.bodyimg{
+   font-weight: bold;
+   height: 125px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+    font-family: sans-serif;
+    
+}
+.grid img{
+    border: 2px solid #000000;
+    border-radius: 5px;
+}
+.food {
+    
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin: 25px;
+    height: 150px ;
+    width:200px;
+    font-family: fantasy;
+    
+}
